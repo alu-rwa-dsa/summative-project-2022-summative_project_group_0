@@ -25,4 +25,7 @@ then run app.
 
 # The app
 
-https://github.com/alu-rwa-dsa/summative-project-2022-summative_project_group_0/issues/1#issue-1208634458
+![screenshot_app](https://user-images.githubusercontent.com/90867768/164058372-883da16d-a908-4ec5-b1d6-9bc32944725b.png)
+![app_options](https://user-images.githubusercontent.com/90867768/164058418-6756a2ba-d39e-4836-9633-8e909c0d3464.png)
+![app_selected_path](https://user-images.githubusercontent.com/90867768/164058438-aa0e4943-160c-4329-a755-18dffd792b01.png)
+

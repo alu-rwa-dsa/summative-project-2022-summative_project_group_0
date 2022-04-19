@@ -17,9 +17,13 @@ https://youtu.be/Vyv-sTIgCxc
 
 streamlit, matplotlib, pandas, matplotlib, networkx, pyvis
 - to install the above use 
+
 pip install <package name/ name> 
+
 - to run the app use
+
 streamlit run app.py
+
 Note: for app to run successfully be in the project directory e.g /c/Users/Hp/summative-project-2022-summative_project_group_0/project
 then run app.
 

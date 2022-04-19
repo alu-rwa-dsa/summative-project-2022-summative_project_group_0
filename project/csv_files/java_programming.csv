@@ -1,0 +1,12 @@
+,CourseOne,CourseTwo,Relation
+0,Java Programming Basics,Defining Classes,java_programming
+1,Defining Classes,Object Oriented Programming,java_programming
+2,Object Oriented Programming,Common Type,java_programming
+3,Common Type,Advanced Java Types,java_programming
+4,Advanced Java Types,Functional Programming in Java,java_programming
+5,Functional Programming in Java,Working with Files ,java_programming
+6,Working with Files ,Design Patterns,java_programming
+7,Design Patterns,Reflection,java_programming
+8,Reflection,Running Java Applications,java_programming
+9,Running Java Applications,Java Modules,java_programming
+10,Java Modules,program requirements.,java_programming

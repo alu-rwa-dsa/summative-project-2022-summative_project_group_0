@@ -1,0 +1,22 @@
+,CourseOne,CourseTwo,Relation
+0,Introduction to Neural Networks,Implementing Gradient Descent,deep_learning
+1,Implementing Gradient Descent,Training Neural Networks,deep_learning
+2,Training Neural Networks,Sentiment Analysis,deep_learning
+3,Sentiment Analysis,Cloud Computing,deep_learning
+4,Cloud Computing,Convolutional Neural Network,deep_learning
+5,Convolutional Neural Network,CNNs In PyTorch,deep_learning
+6,CNNs In PyTorch,Weight Initialization,deep_learning
+7,Weight Initialization,Transfer Learning in PyTorch,deep_learning
+8,Transfer Learning in PyTorch,Deep Learning for Cancer Detection ,deep_learning
+9,Deep Learning for Cancer Detection ,Recurrent Neural Networks,deep_learning
+10,Recurrent Neural Networks,Long Short Term Memory Network,deep_learning
+11,Long Short Term Memory Network,Implementation of RNN   LSTM,deep_learning
+12,Implementation of RNN   LSTM,Hyperparameters,deep_learning
+13,Hyperparameters,Sentiment Prediction RNN,deep_learning
+14,Sentiment Prediction RNN,Generative Adversarial Network,deep_learning
+15,Generative Adversarial Network,Deep Convolutional GANs,deep_learning
+16,Deep Convolutional GANs,PIX2PIX   Cyclegan,deep_learning
+17,PIX2PIX   Cyclegan,Introduction to Deployment,deep_learning
+18,Introduction to Deployment,Deploy a Model,deep_learning
+19,Deploy a Model,Custom Models   Web Hosting,deep_learning
+20,Custom Models   Web Hosting,Model Monitoring,deep_learning

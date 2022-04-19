@@ -1,0 +1,20 @@
+,CourseOne,CourseTwo,Relation
+0,The Web and HTML,Lab  Basic HTML ,introducion_to_programming
+1,Lab  Basic HTML ,Styling with CSS,introducion_to_programming
+2,Styling with CSS,Turtles and Code,introducion_to_programming
+3,Turtles and Code,Functions,introducion_to_programming
+4,Functions,Shell Workshop,introducion_to_programming
+5,Shell Workshop,Python at Home,introducion_to_programming
+6,Python at Home,Style and Structure,introducion_to_programming
+7,Style and Structure,Working with Files,introducion_to_programming
+8,Working with Files,Web APIs,introducion_to_programming
+9,Web APIs,Objects and Classes,introducion_to_programming
+10,Objects and Classes,What is JavaScript ,introducion_to_programming
+11,What is JavaScript ,Data Types   Variables,introducion_to_programming
+12,Data Types   Variables,Conditionals ,introducion_to_programming
+13,Conditionals ,Loops,introducion_to_programming
+14,Loops,Arrays ,introducion_to_programming
+15,Arrays ,Objects ,introducion_to_programming
+16,Objects ,The Document Object Model,introducion_to_programming
+17,The Document Object Model,Creating Content with Javascript,introducion_to_programming
+18,Creating Content with Javascript,Working with Browser Events ,introducion_to_programming

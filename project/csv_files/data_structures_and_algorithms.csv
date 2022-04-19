@@ -1,0 +1,15 @@
+,CourseOne,CourseTwo,Relation
+0,Introduction,Python Refresher,data_structures_and_algorithms
+1,Python Refresher,How to Solve Problems,data_structures_and_algorithms
+2,How to Solve Problems,Big O Notation,data_structures_and_algorithms
+3,Big O Notation,Collection data structures  lists  arrays  linked lists   queues  stack ,data_structures_and_algorithms
+4,Collection data structures  lists  arrays  linked lists   queues  stack ,Recursion,data_structures_and_algorithms
+5,Recursion,Trees,data_structures_and_algorithms
+6,Trees,Maps and Hashing,data_structures_and_algorithms
+7,Maps and Hashing,Binary Search,data_structures_and_algorithms
+8,Binary Search,Sorting Algorithms,data_structures_and_algorithms
+9,Sorting Algorithms,Divide   Conquer Algorithms,data_structures_and_algorithms
+10,Divide   Conquer Algorithms,Greedy Algorithms,data_structures_and_algorithms
+11,Greedy Algorithms,Graph Algorithms,data_structures_and_algorithms
+12,Graph Algorithms,Dynamic Programming,data_structures_and_algorithms
+13,Dynamic Programming,,data_structures_and_algorithms

@@ -1,0 +1,13 @@
+,CourseOne,CourseTwo,Relation
+0,Introduction to Data Product Management,Granularity  Distribution  and Modeling Data,product_manager_data
+1,Granularity  Distribution  and Modeling Data,Trends  Enrichment    Visualization,product_manager_data
+2,Trends  Enrichment    Visualization,Midterm  Develop a Data Backed Product Proposal  Part 1 ,product_manager_data
+3,Midterm  Develop a Data Backed Product Proposal  Part 1 ,Proposal Synthesis   Design,product_manager_data
+4,Proposal Synthesis   Design,Introduction to Data Pipelines,product_manager_data
+5,Introduction to Data Pipelines,Data Consumers ,product_manager_data
+6,Data Consumers ,Data Producers,product_manager_data
+7,Data Producers,Data Strategy ,product_manager_data
+8,Data Strategy ,Choose   Measure KPIs,product_manager_data
+9,Choose   Measure KPIs,Evaluate User Acquisition   Usage Funnels,product_manager_data
+10,Evaluate User Acquisition   Usage Funnels,Cohort Analysis,product_manager_data
+11,Cohort Analysis,Qualitative   Quantitative Data,product_manager_data

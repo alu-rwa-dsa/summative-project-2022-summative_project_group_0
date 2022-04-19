@@ -1,0 +1,14 @@
+,CourseOne,CourseTwo,Relation
+0,Coding Best Practices,   Create branches for isolating changes in git and Github,machine_learning_devops
+1,   Create branches for isolating changes in git and Github,Production  Ready Code,machine_learning_devops
+2,Production  Ready Code,Machine Learning Pipelines,machine_learning_devops
+3,Machine Learning Pipelines,Data Exploration and Preparation,machine_learning_devops
+4,Data Exploration and Preparation,Data Validation,machine_learning_devops
+5,Data Validation,   Validate and choose best performing model,machine_learning_devops
+6,   Validate and choose best performing model,as Aequitas,machine_learning_devops
+7,as Aequitas,CI CD,machine_learning_devops
+8,CI CD,   Deploy a machine learning inference API to Heroku,machine_learning_devops
+9,   Deploy a machine learning inference API to Heroku,Model Training and Deployment,machine_learning_devops
+10,Model Training and Deployment,Model Scoring and Model Drift,machine_learning_devops
+11,Model Scoring and Model Drift,Diagnosing and Fixing Operational Problems,machine_learning_devops
+12,Diagnosing and Fixing Operational Problems,Model Reporting and Monitoring with APIs,machine_learning_devops

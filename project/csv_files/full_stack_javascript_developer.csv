@@ -1,0 +1,15 @@
+,CourseOne,CourseTwo,Relation
+0,Getting Started with Node.js,Developing with TypeScript,full_stack_javascript_developer
+1,Developing with TypeScript,Unit Testing with Jasmine,full_stack_javascript_developer
+2,Unit Testing with Jasmine,Building a Server,full_stack_javascript_developer
+3,Building a Server,Databases and SQL,full_stack_javascript_developer
+4,Databases and SQL,Creating an API with Postgres ,full_stack_javascript_developer
+5,Creating an API with Postgres ,   Be introduced to what CORS is and when it is necessary.,full_stack_javascript_developer
+6,   Be introduced to what CORS is and when it is necessary.,   Install a Node package Bcrypt and learn to set up Bcrypt for ,full_stack_javascript_developer
+7,   Install a Node package Bcrypt and learn to set up Bcrypt for ,Angular Overview,full_stack_javascript_developer
+8,Angular Overview,Components,full_stack_javascript_developer
+9,Components,   Use dependency injection to provide custom services and ,full_stack_javascript_developer
+10,   Use dependency injection to provide custom services and ,Data,full_stack_javascript_developer
+11,Data,Interact with Cloud Services ,full_stack_javascript_developer
+12,Interact with Cloud Services ,Write Scripts For Web Applications,full_stack_javascript_developer
+13,Write Scripts For Web Applications,   Create an automated integration process.,full_stack_javascript_developer

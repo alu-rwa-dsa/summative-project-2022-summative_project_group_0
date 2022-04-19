@@ -1,0 +1,15 @@
+,CourseOne,CourseTwo,Relation
+0,Introduction to HTML,Introduction to CSS,front_end_webdev
+1,Introduction to CSS,Introducing Flexbox,front_end_webdev
+2,Introducing Flexbox,CSS Grid,front_end_webdev
+3,CSS Grid,Syntax  ,front_end_webdev
+4,Syntax  ,The Document Object Model,front_end_webdev
+5,The Document Object Model,Creating Content with JavaScript,front_end_webdev
+6,Creating Content with JavaScript,Working with Browser Events,front_end_webdev
+7,Working with Browser Events,Node   ExpressEnvironment,front_end_webdev
+8,Node   ExpressEnvironment,HTTP Requests   Routes,front_end_webdev
+9,HTTP Requests   Routes,Asynchronous JavaScript,front_end_webdev
+10,Asynchronous JavaScript,Intro to Build Tools,front_end_webdev
+11,Intro to Build Tools,Basics of Webpack,front_end_webdev
+12,Basics of Webpack,Sass and Webpack,front_end_webdev
+13,Sass and Webpack,Final Touches,front_end_webdev

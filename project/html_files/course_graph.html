@@ -1,0 +1,80 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.css" type="text/css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis-network.min.js"> </script>
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+
+<style type="text/css">
+
+        #mynetwork {
+            width: 100vw;
+            height: 100vh;
+            background-color: #ffffff;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+
+        
+
+        
+</style>
+
+</head>
+
+<body>
+<div id = "mynetwork"></div>
+
+
+<script type="text/javascript">
+
+    // initialize global variables.
+    var edges;
+    var nodes;
+    var network; 
+    var container;
+    var options, data;
+
+    
+    // This method is responsible for drawing the graph, returns the drawn network
+    function drawGraph() {
+        var container = document.getElementById('mynetwork');
+        
+        
+
+        // parsing and collecting nodes and edges from the python
+        nodes = new vis.DataSet([{"id": "The Data Science Process", "label": "The Data Science Process", "shape": "dot", "size": 10}, {"id": "Communicating with Stakeholders ", "label": "Communicating with Stakeholders ", "shape": "dot", "size": 10}, {"id": "Software Engineering Practices", "label": "Software Engineering Practices", "shape": "dot", "size": 10}, {"id": "Object Oriented Programming", "label": "Object Oriented Programming", "shape": "dot", "size": 10}, {"id": "Web Development", "label": "Web Development", "shape": "dot", "size": 10}, {"id": "ETL Pipelines", "label": "ETL Pipelines", "shape": "dot", "size": 10}, {"id": "Natural Language Processing", "label": "Natural Language Processing", "shape": "dot", "size": 10}, {"id": "Machine Learning Pipelines", "label": "Machine Learning Pipelines", "shape": "dot", "size": 10}, {"id": "Experiment Design", "label": "Experiment Design", "shape": "dot", "size": 10}, {"id": "Statistical Concerns of Experimentation", "label": "Statistical Concerns of Experimentation", "shape": "dot", "size": 10}, {"id": "A B Testing", "label": "A B Testing", "shape": "dot", "size": 10}, {"id": "Introduction to Recommendation Engines", "label": "Introduction to Recommendation Engines", "shape": "dot", "size": 10}, {"id": "Elective 1  Dog Breed Classification", "label": "Elective 1  Dog Breed Classification", "shape": "dot", "size": 10}, {"id": "Elective 2  Starbucks", "label": "Elective 2  Starbucks", "shape": "dot", "size": 10}, {"id": "Elective 3  Arvato Financial Services", "label": "Elective 3  Arvato Financial Services", "shape": "dot", "size": 10}, {"id": "Elective 4  Spark for Big Data", "label": "Elective 4  Spark for Big Data", "shape": "dot", "size": 10}]);
+        edges = new vis.DataSet([{"arrows": "to", "from": "The Data Science Process", "to": "Communicating with Stakeholders ", "weight": 1}, {"arrows": "to", "from": "Communicating with Stakeholders ", "to": "Software Engineering Practices", "weight": 1}, {"arrows": "to", "from": "Software Engineering Practices", "to": "Object Oriented Programming", "weight": 1}, {"arrows": "to", "from": "Object Oriented Programming", "to": "Web Development", "weight": 1}, {"arrows": "to", "from": "Web Development", "to": "ETL Pipelines", "weight": 1}, {"arrows": "to", "from": "ETL Pipelines", "to": "Natural Language Processing", "weight": 1}, {"arrows": "to", "from": "Natural Language Processing", "to": "Machine Learning Pipelines", "weight": 1}, {"arrows": "to", "from": "Machine Learning Pipelines", "to": "Experiment Design", "weight": 1}, {"arrows": "to", "from": "Experiment Design", "to": "Statistical Concerns of Experimentation", "weight": 1}, {"arrows": "to", "from": "Statistical Concerns of Experimentation", "to": "A B Testing", "weight": 1}, {"arrows": "to", "from": "A B Testing", "to": "Introduction to Recommendation Engines", "weight": 1}, {"arrows": "to", "from": "Introduction to Recommendation Engines", "to": "Elective 1  Dog Breed Classification", "weight": 1}, {"arrows": "to", "from": "Elective 1  Dog Breed Classification", "to": "Elective 2  Starbucks", "weight": 1}, {"arrows": "to", "from": "Elective 2  Starbucks", "to": "Elective 3  Arvato Financial Services", "weight": 1}, {"arrows": "to", "from": "Elective 3  Arvato Financial Services", "to": "Elective 4  Spark for Big Data", "weight": 1}]);
+
+        // adding nodes and edges to the graph
+        data = {nodes: nodes, edges: edges};
+
+        var options = {"nodes": {"font": {"size": 25}}, "edges": {"color": {"inherit": true}, "smooth": false}, "interaction": {"navigationButtons": true}, "physics": {"minVelocity": 0.75, "node_distance": "1000"}};
+        
+        
+
+        
+
+        network = new vis.Network(container, data, options);
+	 
+        
+
+
+        
+
+        return network;
+
+    }
+
+    drawGraph();
+
+</script>
+</body>
+</html>

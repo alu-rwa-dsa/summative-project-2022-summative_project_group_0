@@ -1,0 +1,15 @@
+,CourseOne,CourseTwo,Relation
+0,Connecting and Interactingwith Databases,Intro to SQLAlchemy andSQLAlchemy ORM Basics,full_stack
+1,Intro to SQLAlchemy andSQLAlchemy ORM Basics,SQLAlchemy ORM in Depth,full_stack
+2,SQLAlchemy ORM in Depth,Build a CRUD App withSQLAlchemy ORM   Part 1,full_stack
+3,Build a CRUD App withSQLAlchemy ORM   Part 1,Build a CRUD App withSQLAlchemy ORM   Part 2,full_stack
+4,Build a CRUD App withSQLAlchemy ORM   Part 2,HTTP and Flask ,full_stack
+5,HTTP and Flask ,Endpoints and Payloads,full_stack
+6,Endpoints and Payloads,API Testing,full_stack
+7,API Testing,Foundations ,full_stack
+8,Foundations ,Authentication,full_stack
+9,Authentication,Passwords ,full_stack
+10,Passwords ,Authorization,full_stack
+11,Authorization,Thinking Adversarially,full_stack
+12,Thinking Adversarially,Containers ,full_stack
+13,Containers ,Deployment,full_stack

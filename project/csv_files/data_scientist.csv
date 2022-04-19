@@ -1,0 +1,16 @@
+,CourseOne,CourseTwo,Relation
+0,The Data Science Process,Communicating with Stakeholders ,data_scientist
+1,Communicating with Stakeholders ,Software Engineering Practices,data_scientist
+2,Software Engineering Practices,Object Oriented Programming,data_scientist
+3,Object Oriented Programming,Web Development,data_scientist
+4,Web Development,ETL Pipelines,data_scientist
+5,ETL Pipelines,Natural Language Processing,data_scientist
+6,Natural Language Processing,Machine Learning Pipelines,data_scientist
+7,Machine Learning Pipelines,Experiment Design,data_scientist
+8,Experiment Design,Statistical Concerns of Experimentation,data_scientist
+9,Statistical Concerns of Experimentation,A B Testing,data_scientist
+10,A B Testing,Introduction to Recommendation Engines,data_scientist
+11,Introduction to Recommendation Engines,Elective 1  Dog Breed Classification,data_scientist
+12,Elective 1  Dog Breed Classification,Elective 2  Starbucks,data_scientist
+13,Elective 2  Starbucks,Elective 3  Arvato Financial Services,data_scientist
+14,Elective 3  Arvato Financial Services,Elective 4  Spark for Big Data,data_scientist

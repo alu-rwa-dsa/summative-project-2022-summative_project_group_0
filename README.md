@@ -1,4 +1,4 @@
-# Final-Jan-April-2022
+# DSA Summative Project: Interactive Syllabi Guide 
 
 The Problem:
 “Most full-scale courses in software development and engineering are too expensive for those seeking to become self-taught. Given the saturation of resources online, those who can not afford it often find themselves lost and unsure of where to start their journeys.”
